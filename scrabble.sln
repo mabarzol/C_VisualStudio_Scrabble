@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scrabble", "scrabble\scrabble.vcproj", "{2BA7AEFA-3B38-44F4-B1F3-1F1EEC44C682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BA7AEFA-3B38-44F4-B1F3-1F1EEC44C682}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2BA7AEFA-3B38-44F4-B1F3-1F1EEC44C682}.Debug|Win32.Build.0 = Debug|Win32
+		{2BA7AEFA-3B38-44F4-B1F3-1F1EEC44C682}.Release|Win32.ActiveCfg = Release|Win32
+		{2BA7AEFA-3B38-44F4-B1F3-1F1EEC44C682}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
